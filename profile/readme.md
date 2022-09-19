@@ -9,7 +9,7 @@
 
 - 📝 Check out the Frietor Whitepaper [https://whitepaper.frietor.com](https://whitepaper.frietor.com)
 
-- 📫 reach us at **hello@esportzvio.com**
+- 📫 Reach us at **hello@esportzvio.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
