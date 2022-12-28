@@ -1,22 +1,16 @@
-<h1 align="center">Hi 👋, We are Esportzvio</h1>
-<h3 align="center">A Software Development and Management company from India</h3>
+# Frietor 🚀
+Frietor is a blockchain-based ecosystem for creators and their fan communities in India. Our goal is to solve the problems faced by creators in the current Indian creator economy, such as lack of control, limited monetization options, lack of transparency, and lack of ownership.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esportzvio&label=Profile%20views&color=0e75b6&style=flat" alt="esportzvio" /> </p>
+## Features 💡
+#### Control: Frietor gives creators control over their content and revenue by allowing them to host their content on decentralized platforms and monetize it through the use of smart contracts and tokens.
+#### Monetization options: Frietor enables creators to monetize their content through a range of options such as token sales, sponsorship, and merchandise sales, giving them more flexibility and control over their monetization.
+#### Transparency: Frietor provides transparency through the use of smart contracts and decentralized platforms, giving creators visibility into how their content is being monetized and how much revenue they are earning.
+#### Ownership: Frietor gives creators ownership over their content through the use of non-fungible tokens (NFTs), allowing them to control how their content is used and distributed.
+#### Digital collectibles marketplace: Frietor offers a marketplace for creators to sell unique, limited edition digital collectibles to their fans. 💰
+#### Community platform: Frietor provides a platform for creators to connect with their fans and collaborate with other creators. 🤝
 
-- 🔭 We are currently working on [Frietor](https://frietor.com)
+## Getting started 💻
+To get started with Frietor, visit our website and sign up for an account. From there, you can start creating and monetizing your content on our platform.
 
-- 👨‍💻 Check us out on [https://esportzvio.com](https://esportzvio.com)
-
-- 📝 Check out the Frietor Whitepaper [https://whitepaper.frietor.com](https://whitepaper.frietor.com)
-
-- 📫 Reach us at **hello@esportzvio.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/esportzvio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esportzvio" height="30" width="40" /></a>
-<a href="https://instagram.com/esportzvio_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esportzvio_in" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/esportzvio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="esportzvio" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Support 🙏
+If you have any questions or need help getting started with Frietor, please don't hesitate to reach out to our support team. You can contact us through the support form on our website or through our social media channels. 🤗
