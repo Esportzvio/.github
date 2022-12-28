@@ -1,7 +1,7 @@
 # Frietor 🚀
 Frietor is a blockchain-based ecosystem for creators and their fan communities in India. Our goal is to solve the problems faced by creators in the current Indian creator economy, such as lack of control, limited monetization options, lack of transparency, and lack of ownership.
 
-### Our Website - https://frietor.com/
+####Our Website - https://frietor.com/
 #### Our Whitepaper - https://frietor.com/static/pdfs/Frietor-Whitepaper_v1-Dec2022.pdf
 #### Our Blog - https://frietor.com/whitepaper
 
